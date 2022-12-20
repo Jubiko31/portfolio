@@ -1,3 +1,4 @@
-Hi, I am Juba, a junior fullstack developer. This is my Personal Portfolio Website, you can all of my projects there:
+This is my first Portfolio website.
 
-https://jubiko31.github.io/portfolio
+Take a look at official one:
+https://juba-portfolio.netlify.app/
